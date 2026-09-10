@@ -1,0 +1,15 @@
+{
+  "name": "genpark-pitch-synchronous-overlap-add-psola-skill",
+  "version": "1.0.0",
+  "description": "Time-domain Pitch-Synchronous Overlap-Add (TD-PSOLA) engine stretching or compressing speech timescales without altering pitch.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "psola",
+    "speech-synthesis",
+    "pitch-shifting",
+    "timescale-modification"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
